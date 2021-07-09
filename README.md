@@ -1,4 +1,4 @@
-# What it is?
+# What is it?
 OSR Next is a reimagining of the 5th Edition System Reference Document as an OSR compatible system.
 
 Documents are in the docs/ directory.
